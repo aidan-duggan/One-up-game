@@ -31,4 +31,4 @@ Players play 6 rounds.
 Scoring
 Players score points based on the number of sets they collect.
 
-![design](oneup.png)
+![design](oneup.PNG)
